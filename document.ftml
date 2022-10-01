@@ -3,7 +3,7 @@
   <sh>This Markup language was built because default HTML looked kinda bad</sh>
   <text>So I made FTML!</text>
   <text>Of course it doesn't have anything useful yet</text>
-  <nl>
+  <nl/>
   <text>Thats a new line</text>
   <graphics>style.gs</graphics>
 </ftml>
